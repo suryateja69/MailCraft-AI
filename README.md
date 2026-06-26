@@ -100,7 +100,17 @@ streamlit run streamlit_app/app.py
 
 ## 📸 Screenshots
 
-Add screenshots of the application inside the `screenshots` folder and update this section after uploading them.
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Job Application Form
+![Job Application](screenshots/job-application.png)
+
+### Generated Email
+![Generated Email](screenshots/generated-email.png)
+
+### Saved Email History
+![Email History](screenshots/history.png)
 
 ---
 
